@@ -38,7 +38,7 @@ google_analytics: UA-NNNNNNNN-N
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-console
+remote_theme: jekyll-theme-console
 plugins:
   - jekyll-feed
 
