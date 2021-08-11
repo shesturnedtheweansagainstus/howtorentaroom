@@ -3,5 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: /
+permalink: /
 ---
-hjkhk
+
+## how to rent a room
+
+Music a la Fisher, philosophy as multiplicity, politics to win. Animate this page!
